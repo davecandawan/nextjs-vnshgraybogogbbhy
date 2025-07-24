@@ -10,24 +10,24 @@ const Slideshow: React.FC = () => {
 
   const slides = [
     {
-      image: '/contentimages/VNSH_Camo_Holster_Top_Hero.webp',
+      image: '/contentimages/VNSH_Gray_Holster_Top_Hero.webp',
       alt: 'Hero slide',
     },
     {
-      image: '/contentimages/VNSH_Camo_Holster_Top_Hero2.webp',
-      alt: 'Camo Holster Image 2',
+      image: '/contentimages/VNSH_Gray_Holster_Top_Hero2.webp',
+      alt: 'Gray Holster Image 2',
     },
     {
-      image: '/contentimages/VNSH_Camo_Holster_Top_Hero3.webp',
-      alt: 'Camo Holster Image 3',
+      image: '/contentimages/VNSH_Gray_Holster_Top_Hero5.webp',
+      alt: 'Gray Holster Image 3',
     },
     {
-      image: '/contentimages/VNSH_Camo_Holster_Top_Hero4.webp',
-      alt: 'Camo Holster Image 4',
+      image: '/contentimages/VNSH_Gray_Holster_Top_Hero4.webp',
+      alt: 'Gray Holster Image 4',
     },
     {
-      image: '/contentimages/VNSH_Camo_Holster_Top_Hero5.webp',
-      alt: 'Camo Holster Image 5',
+      image: '/contentimages/VNSH_Gray_Holster_Top_Hero3.webp',
+      alt: 'Gray Holster Image 5',
     },
   ];
 

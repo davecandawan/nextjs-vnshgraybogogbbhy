@@ -116,7 +116,7 @@ const Content: React.FC = () => {
           </div>
           <div className="w-full md:w-[82%] mx-auto max-w-[1120px] py-5 px-0">
             <Image
-              src="/contentimages/VNSH-CamoHolster-BlockImages-V2-Desktop.webp"
+              src="/contentimages/VNSH-GrayHolster-BlockImages-V2-Desktop.webp"
               alt="Laser Strike System"
               className="w-full h-auto"
               width={1120}
@@ -241,8 +241,8 @@ const Content: React.FC = () => {
           </div>
           <div className="w-full md:w-[80%] mx-auto max-w-[1120px] px-0 md:px-0">
             <Image
-              src="/contentimages/CamoImage2-Desktop.webp"
-              alt="Camo Holster"
+              src="/contentimages/GrayImage2-Desktop.webp"
+              alt="Gray Holster"
               className="w-full h-auto"
               width={1120}
               height={600}
@@ -323,8 +323,8 @@ const Content: React.FC = () => {
             </div>
             <div className="w-full md:w-[80%] mx-auto max-w-[1120px] px-0 md:px-0 md:py-5">
               <Image
-                src="/contentimages/CamoImage1-Desktop.webp"
-                alt="VNSH Camo Holster"
+                src="/contentimages/GrayImage1-Desktop.webp"
+                alt="VNSH Gray Holster"
                 className="w-full h-auto"
                 width={1120}
                 height={600}
